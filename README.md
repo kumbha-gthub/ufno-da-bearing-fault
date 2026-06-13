@@ -1,4 +1,4 @@
-# Fourier Neural Operators for Robust Domain Adaptation with Limited Target Labels
+# Fourier Neural Operators for Robust Domain Adaptation with Limited Target DATA
 
 Code accompanying the paper *"Fourier Neural Operators for Robust Domain Adaptation with Limited Target Labels"* (submitted to IEEE MLSP 2025).
 

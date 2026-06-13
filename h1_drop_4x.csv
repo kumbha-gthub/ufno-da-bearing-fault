@@ -1,0 +1,4 @@
+model,mean,std,count
+CNN,0.0179,0.0259,12
+PlainFNO,0.1327,0.0418,3
+U-FNO,0.0139,0.0223,12

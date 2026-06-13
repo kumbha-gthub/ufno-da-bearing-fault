@@ -1,0 +1,24 @@
+# Outputs (large, regenerable)
+outputs/
+*.pt
+*.pth
+
+# Dataset (large, external)
+PU_Data/
+**/PU_Data/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+nohup.out
